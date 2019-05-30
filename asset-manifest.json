@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/film-note/static/css/main.34de6062.chunk.css",
+    "main.js": "/film-note/static/js/main.19bb129d.chunk.js",
+    "main.js.map": "/film-note/static/js/main.19bb129d.chunk.js.map",
+    "runtime~main.js": "/film-note/static/js/runtime~main.43dd844a.js",
+    "runtime~main.js.map": "/film-note/static/js/runtime~main.43dd844a.js.map",
+    "static/js/2.576496b6.chunk.js": "/film-note/static/js/2.576496b6.chunk.js",
+    "static/js/2.576496b6.chunk.js.map": "/film-note/static/js/2.576496b6.chunk.js.map",
+    "index.html": "/film-note/index.html",
+    "precache-manifest.fd59144ccfa68e51a45dd78fcba1bbfe.js": "/film-note/precache-manifest.fd59144ccfa68e51a45dd78fcba1bbfe.js",
+    "service-worker.js": "/film-note/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/film-note/static/css/main.34de6062.chunk.css.map"
+  }
+}
